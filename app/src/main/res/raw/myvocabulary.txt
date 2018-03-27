@@ -1,0 +1,4 @@
+android manifest=Configuration file for the application.
+activity=It represents a single screen with a user interface and performs actions on the screen.
+gradle=An open source build automation system that builds android project.
+layout=It's a view that controls screen format and appearence to the user
